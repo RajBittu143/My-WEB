@@ -1,0 +1,13 @@
+{
+    "name": "my-app",
+    "scripts": {
+        "start": "node server.js",
+        "dev": "nodemon server.js"
+    },
+    "dependencies": {
+        "body-parser": "^2.2.2",
+        "ejs": "^4.0.1",
+        "express": "^5.2.1",
+        "nodemailer": "^8.0.1"
+    }
+}
